@@ -1,0 +1,3 @@
+#!/usr/bin/env Rscript
+cat("Hello, World!\n")
+# the \n tells the system to move to a new line
